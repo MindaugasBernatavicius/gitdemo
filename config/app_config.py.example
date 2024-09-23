@@ -5,3 +5,4 @@ admin_email="<>"
 delete_data_older_than_days=0
 new_config_option=""
 even_newer_option=""
+new_option_from_master=""
