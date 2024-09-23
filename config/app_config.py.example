@@ -2,3 +2,4 @@ db_user="<>"
 db_pass="<>"
 twitter_api_token="<>"
 admin_email="<>"
+delete_data_older_than_days=0
