@@ -4,3 +4,4 @@ print(">>>>")
 
 if app_config.db_user == "":
     raise Exception("FATAL")
+
